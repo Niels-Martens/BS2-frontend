@@ -18,4 +18,4 @@ jobs:
 
     - name: Docker push
       run: |
-        docker push yassinesayadi/pe-frontend:latest
+        docker push mattes67/pe-bs2-frontend
